@@ -23,6 +23,17 @@ The dataset is related to breast cancer and consists of 569 rows and 33 columns.
 
 ## Classifiers Used:
 1. Logistic Regression
+   ![image](https://user-images.githubusercontent.com/66699491/209476784-2775b47c-72c0-488d-8880-785ba790bd4b.png)
+  
 2. Decision Tree Classifier
+   ![image](https://user-images.githubusercontent.com/66699491/209476802-d5ded529-1e85-48c0-b24c-2b5cd57737ab.png)
+
 3. Random Forest Classifier
-4. K-Nearest Neighbors
+   ![image](https://user-images.githubusercontent.com/66699491/209476821-08f1b720-0c95-4186-9491-0b618302e9b3.png)
+
+6. K-Nearest Neighbors
+   ![image](https://user-images.githubusercontent.com/66699491/209476827-a584cb3e-e788-415d-9ff3-ad4e42bcc495.png)
+
+
+
+
